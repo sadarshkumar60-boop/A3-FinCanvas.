@@ -20,7 +20,7 @@ How to Use
 4.Open the What-if analyzer and tweak values to test different scenarios.
 
 Future Improvements
-Save data using localStorage
-Export budget as PDF/CSV
-Dark mode
-Savings goals and tracking
+1.Save data using localStorage
+2.Export budget as PDF/CSV
+3.Dark mode
+4.Savings goals and tracking
